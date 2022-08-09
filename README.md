@@ -4,8 +4,8 @@
 
 ## 테스트를 수행할 기능
 
-[js-counter]()
-[js-calculator]()
+- 카운터 : [js-counter](https://github.com/kyhyun/cypress-practice/tree/main/js-counter)
+- 계산기 : [js-calculator](https://github.com/kyhyun/cypress-practice/tree/main/js-calculator)
 
 ### Cypress CLI Tools 실행 방법
 
